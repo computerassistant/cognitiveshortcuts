@@ -13,4 +13,8 @@ https://www.icloud.com/shortcuts/7a5d46550c5b467cb872ceade40b996f
 
 
 # Assistant Trainer
-Assistant Trainer is a $7 companion shortcut to the Assistant shortcut. Use it to teach your LUIS app new ways to understand how to run your shortcuts through conversation. Video demo https://twitter.com/rmcgee_/status/1084629155600363521 
+Assistant Trainer is a $7 companion shortcut to the Assistant shortcut. Use it to teach your LUIS app new ways to understand how to run your shortcuts through conversation.
+
+There are no secondary servers. All communication is between LUIS.ai and the Siri shortcut.
+
+Video demo https://twitter.com/rmcgee_/status/1084629155600363521 
